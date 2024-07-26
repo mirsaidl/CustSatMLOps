@@ -1,2 +1,2 @@
-# MLOps_with_ZenML_mlflow
+# Customer Satisfaction prediction with MLOps
 Learning of MLOps with ZenML and mlflow
