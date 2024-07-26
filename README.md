@@ -9,6 +9,10 @@ CustSatMLOps is a project aimed at predicting customer satisfaction using machin
 - **MLOps Integration:** Utilizes ZenML for pipeline orchestration and MLflow for experiment tracking and model management.
 - **Deployment:** Provides tools for deploying models into production.
 
+## Pipeline structure
+![image](https://github.com/user-attachments/assets/1f782ba2-8957-40fd-9fca-1458a901f27a)
+
+
 ## Installation
 1. Clone the repository:
    ```bash
